@@ -1,0 +1,83 @@
+header{
+    background-image: url(img/modern-colorful-3d-wave-wide-banner-background-abstract-background-banner-design-web-banner-texture-header-website-vector-abstract-graphic-design-banner-pattern-background-template_181182-16317.jpg);
+margin: 0px;
+border: 0ch;
+padding: 20px;
+text-align: center;
+box-shadow:black (1,2);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+nav a{
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    text-decoration: none;
+    font: 1em sans-serif;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+
+}
+nav{
+    text-align: center;
+    background-color:  rgba(11, 228, 185, 0.395);;
+    font-size: large;
+    display: block;
+    
+}
+header p{
+    font-family: 'Courier New', Courier, monospace;
+}
+ header  :hover{
+    transform: scale(1,2);
+    font-weight: 800;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+  }
+  
+  footer {
+    margin-top: auto; 
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  p{
+    font-size: larger;
+  }
+   ol{
+    font-size: larger;
+    color: aliceblue;
+  }
+   ul a {
+    font-size: larger;
+    border: #333 0px;
+    font-size:x-large;
+    font-weight: 600;
+  }
+  body{
+    background-image: url(img/dark-blue-paint-minimal-background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  p ol {
+    color: aliceblue;
+  }
+ h1{
+    color: aliceblue;
+  }
+  header p{
+    color: aliceblue;
+  }
+  a:hover{
+    transform: scale(1,2);
+    font-weight: 600;
+  }
+ 
+
